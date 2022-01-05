@@ -1,4 +1,4 @@
-name: Pulumi
+name: Gated
 on:
   - pull_request
 jobs:
