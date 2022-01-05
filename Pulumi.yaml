@@ -1,0 +1,6 @@
+name: tesla-web-manager-infra
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: AWS Tesla Web Manager project
